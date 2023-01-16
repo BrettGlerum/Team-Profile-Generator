@@ -16,6 +16,8 @@ The Team Profile Generator is a functiional node application that allows the use
   _Contact Info:_
   GitHub: [BrettGlerum](https://github.com/BrettGlerum)
   Email: [2004brett@gmail.com](mailto:2004brett@gmail.com)
+
+  ![video]https://drive.google.com/file/d/15BFPpwUDdU9t8bQzqRFg_DwCh3pEZKb_/view?usp=sharing
     
 ## License
       
